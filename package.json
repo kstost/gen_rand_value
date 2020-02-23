@@ -1,6 +1,6 @@
 {
   "name": "gen_rand_value",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "generate random string",
   "main": "index.js",
   "repository": {
